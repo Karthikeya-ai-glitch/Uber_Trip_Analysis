@@ -70,3 +70,9 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📜 License  
 This project is for educational purposes and follows the **MIT License**.  
+
+## Author
+Nari sai karthikeya
+Final year student @ IIT Kharagpur 
+karthikeyanari19@gmail.com
+
